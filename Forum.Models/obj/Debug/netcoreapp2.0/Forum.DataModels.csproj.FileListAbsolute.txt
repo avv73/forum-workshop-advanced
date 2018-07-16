@@ -1,0 +1,9 @@
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\bin\Debug\netcoreapp2.0\Forum.DataModels.deps.json
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\bin\Debug\netcoreapp2.0\Forum.DataModels.dll
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\bin\Debug\netcoreapp2.0\Forum.DataModels.pdb
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.csprojAssemblyReference.cache
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.AssemblyInfoInputs.cache
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.AssemblyInfo.cs
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.dll
+C:\Users\ALEX-TEDY\Desktop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.pdb
